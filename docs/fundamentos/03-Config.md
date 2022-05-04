@@ -91,3 +91,8 @@ Conforme você instala e configura os pacotes do AdonisJS, eles podem criar novo
 | `redis.ts` | https://git.io/JemcF | Usado pelo pacote do Redis |
 | `drive.ts` | https://git.io/JBt3o | Usado pelo provedor do Drive |
 | `ally.ts` | https://git.io/JOdi5 | Usado pelo pacote de autenticação Social (Ally) |
+
+<footer align="center">
+  <a href="./02-AdonisRC_file.md">Voltar para AdonisRC file ------------------------</a>
+  <a href="./04-Environment_variables.md">Ir para Environment Variables</a>
+</footer>

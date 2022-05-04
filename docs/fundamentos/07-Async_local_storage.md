@@ -211,3 +211,7 @@ No entanto, você deve estar ciente de algumas coisas ao acessar o contexto de u
 
 - O evento nunca deve tentar enviar uma resposta usando `ctx.response.send()` porque não é isso que os eventos devem fazer.
 - Acessar o `ctx` dentro de um manipulador de eventos faz com que ele dependa de solicitações HTTP. Em outras palavras, o evento não é mais genérico e deve sempre ser emitido durante uma requisição HTTP para que funcione.
+
+<footer align="center">
+  <a href="./06-Deployment.md">Voltar para Deployment</a>
+</footer>

@@ -250,3 +250,6 @@ Descobre se a aplicação está no processo de desligamento.
 ```js
 Application.isShuttingDown
 ```
+<footer align="center">
+  <a href="./02-AdonisRC_file.md">Ir para AdonisRC file</a>
+</footer>
