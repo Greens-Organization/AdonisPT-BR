@@ -21,7 +21,7 @@ console.log(Application.environment)
 
 ## Ciclo de vida de inicialização
 Segue um fluxograma do ciclo de vida de inicialização de uma aplicação:
-![Boot_Lifecycle_AdonisJS_Image](https://github.com/Greens-Organization/AdonisPT-BR/blob/main/assets/Boot_Lifecycle_AdonisJS.png)
+![Boot_Lifecycle_AdonisJS_Image](https://github.com/Greens-Organization/AdonisPT-BR/blob/main/assets/Boot_Lifecycle_AdonisJS.png) <br>
 Você pode acessar as ligações do *container* IoC assim que o estado do aplicativo estiver definido como `booted` ou `ready`. Uma tentativa de acessar as ligações do *container* antes do estado inicializado resulta em uma exceção.
 
 Por exemplo, se você tem um provedor de serviço que quer resolver as ligação do *container*, você deve escrever as instruções (statements) de importação dentro dos métodos `boot` ou `ready`.
