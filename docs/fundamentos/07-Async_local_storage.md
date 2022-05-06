@@ -1,5 +1,5 @@
-# Armazenamento local assíncrono*
-De acordo com a [documentação oficial do Node.js](https://nodejs.org/docs/latest-v14.x/api/async_hooks.html): "**AsyncLocalStorage** é usado para criar estado assíncrono dentro de callbacks e cadeias de promises**. Ele permite armazenar dados durante toda a vida útil de uma solicitação da Web ou qualquer outra duração assíncrona. É semelhante ao armazenamento local de thread em outras linguagens.**"
+# Armazenamento local assíncrono
+De acordo com a [documentação oficial do Node.js](https://nodejs.org/docs/latest-v14.x/api/async_hooks.html): "**AsyncLocalStorage** é usado para criar estado assíncrono dentro de callbacks e cadeias de promises. Ele permite armazenar dados durante toda a vida útil de uma solicitação da Web ou qualquer outra duração assíncrona. É semelhante ao armazenamento local de thread em outras linguagens."
 
 Para simplificar ainda mais a explicação, `AsyncLocalStorage`permite armazenar um estado e disponibilizá-lo para todos os caminhos do códig dessa função. Por exemplo:
 
