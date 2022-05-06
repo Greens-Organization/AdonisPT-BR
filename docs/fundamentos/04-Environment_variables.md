@@ -60,7 +60,7 @@ export default Env.rules({
 })
 ```
 Além disso, o AdonisJS extrai as informações de tipo estático das regras de validação e fornece o IntelliSense para as propriedades validadas.
-![IntelliSense_Image](../assets/Usando_IntelliSense.webp)
+![IntelliSense_Image](https://github.com/Greens-Organization/AdonisPT-BR/blob/main/assets/Usando_IntelliSense.webp)
 ## Schema API
 A seguir está a lista de métodos disponíveis para validar as variáveis de ambiente.
 
@@ -202,6 +202,6 @@ As variáveis definidas dentro do arquivo `.env.testing` são autoticamente mesc
 A maioria dos provedores de hospadagem modernos tem suporte de primeira classe para definir variáveis de ambiente em seu console da web. Certifique-se de ler a documentação do seu provedor de hospadagem e definir as variáveis de ambiente antes de implantar seu aplicativo AdonisJS.
 
 <footer align="center">
-  <a href="./03-Config.md">Voltar para Config ------------------------</a>
+  <a href="./03-Config.md">Voltar para Config </a>------------------------
   <a href="./05-TypeScript_build_process.md">Ir para TypeScript Build Process</a>
 </footer>
