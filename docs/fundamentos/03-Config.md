@@ -93,6 +93,6 @@ Conforme você instala e configura os pacotes do AdonisJS, eles podem criar novo
 | `ally.ts` | https://git.io/JOdi5 | Usado pelo pacote de autenticação Social (Ally) |
 
 <footer align="center">
-  <a href="./02-AdonisRC_file.md">Voltar para AdonisRC file ------------------------</a>
+  <a href="./02-AdonisRC_file.md">Voltar para AdonisRC file </a>------------------------
   <a href="./04-Environment_variables.md">Ir para Environment Variables</a>
 </footer>
