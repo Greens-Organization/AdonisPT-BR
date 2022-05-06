@@ -86,6 +86,6 @@ npm ci --production
 - Não copiamos o arquivo `.env` para a pasta de saída. Como as variáveis de ambiente não são transferíveis, você deve definir as variáveis de ambiente para produção separadamente.
 
 <footer align="center">
-  <a href="./04-Environment_variables.md">Voltar para Environment Variables ------------------------</a>
+  <a href="./04-Environment_variables.md">Voltar para Environment Variables </a>------------------------
   <a href="./06-Deployment.md">Ir para Deployment</a>
 </footer>
