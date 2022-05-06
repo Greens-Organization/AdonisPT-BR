@@ -196,6 +196,6 @@ Nenhuma configuração adicional é necessária. Basta dá deploy na sua aplica�
 ```
 
 <footer align="center">
-  <a href="./05-TypeScript_build_process.md">Voltar para TypeScript Build Process ------------------------</a>
+  <a href="./05-TypeScript_build_process.md">Voltar para TypeScript Build Process </a>------------------------
   <a href="./07-Async_local_storage.md">Ir para Async Local Storage</a>
 </footer>
