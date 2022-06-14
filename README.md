@@ -7,7 +7,7 @@ Bem-vindo!
 Esse é um projeto independente para tentar pegar o máximo possível da documentação e essencial da [documentação oficial do AdonisJS](https://adonisjs.com). Disclaimer: Recomendo você sempre ler a documentação oficial.
 
 Siga o índice para não perder nada:
-1. [Instalação](./docs/installation/) - Certifique-se de ler com calma essa parte para não passar nada em branco na hora de instalar.
+1. [Instalação](./docs/instalacao/) - Certifique-se de ler com calma essa parte para não passar nada em branco na hora de instalar.
 2. [Fundamentos](./docs/fundamentos/) - Aqui você vai aprender os fundamentos gerais do AdonisJS, como seu ecosistema, build e deploy.
 
 ## Contribuição 🤝
